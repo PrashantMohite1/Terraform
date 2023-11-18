@@ -1,0 +1,10 @@
+Terraform installation 
+
+Download binary .zip file
+https://releases.hashicorp.com/terraform/1.6.4/terraform_1.6.4_linux_386.zip
+
+unzip terraform_1.6.4_linux_386.zip
+
+sudo mv ~/Downloads/terraform /usr/local/bin/
+
+terraform --version
